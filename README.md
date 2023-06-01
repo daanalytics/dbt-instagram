@@ -1,2 +1,2 @@
 # dbt-instagram
-dat for Instagram
+dbt for Instagram
